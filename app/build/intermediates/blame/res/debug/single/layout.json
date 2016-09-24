@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\song.xml",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\src\\main\\res\\layout\\song.xml"
+    }
+]

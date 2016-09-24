@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rand.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\src\\main\\res\\drawable\\rand.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\end.png",
+        "source": "C:\\Users\\Dell\\AndroidStudioProjects\\android-music-player-master\\app\\src\\main\\res\\drawable\\end.png"
+    }
+]
